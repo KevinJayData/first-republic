@@ -28,4 +28,4 @@ are implemented on the HR team.  This can be indicative that every team interact
 newhires, benefits, payroll, etc... and could be taking an active step to improve processes within HR. 
 
 
-![Image of ppt Slide](https://github.com/KevinJayData/first-republic/blob/main/slide1.png)
+![Image of ppt Slide](https://github.com/KevinJayData/first-republic/blob/main/slide2.png)
