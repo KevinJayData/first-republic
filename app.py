@@ -23,7 +23,7 @@ def execute():
     ##################
     # 3) Create a pie chart that shows the breakout of all ideas by department of person submitting the idea.
     print(pd.unique(data['Idea Submitter Department'])) # looks like 4 different departments in this dataset
-    counts = data.groupby(['Idea Submitter Department']).size().reset_index(name='counts')
+    counts = data.groupby(['Idea Submitter Department']).size().reset_index(name='counts').sort_values(by='counts', ascending=False)
     counts.set_index('Idea Submitter Department', inplace=True)
     fig1, ax1 = plt.subplots()
     ax1.pie(list(counts.counts), labels=list(counts.index), autopct='%1.1f%%', shadow=True, startangle=90)
