@@ -9,3 +9,6 @@ Answer: 128 ideas (or 84.2% of all ideas in the dataset) were submitted in 2018.
 
 ### 3) Create a pie chart that shows the breakout of all ideas by department of person submitting the idea.
 ![Image of pie chart](https://github.com/KevinJayData/first-republic/blob/main/pie_chart.png)
+
+### 4) Of the ideas that were implemented, which two departments benefited most?
+Answer: Production with 8 implemented ideas, and Human Resources with 7 Implemented Ideas.
