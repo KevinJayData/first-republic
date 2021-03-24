@@ -19,7 +19,7 @@ Answer: Production with 8 implemented ideas, and Human Resources with 7 Implemen
 Talking points
 - The Ratio% represents how many ideas benefited each department divided by the number submitted by
 the department.  Departments can submit ideas to other departments so this gives an idea of who is 
-benefiting the most vs who is coming up with the most ideas. 
+benefiting vs who is coming up with the ideas. 
 - The Production Department submitted the most ideas, but only 8 ideas were implemented.  
 this resulted in the lowest implemented/submitted ratio.  
 - HR submitted the 2nd least number of ideas, but the ratio shows they benefited more on a percent
