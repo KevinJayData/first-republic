@@ -18,7 +18,7 @@ def execute():
     num_ideas_2018 = len(data[(data['Date Submitted'] >= '01-01-2018') & (data['Date Submitted'] <= '12-31-2018')])
     print(num_ideas_2018)
     print(num_ideas_2018/len(data))
-    # answer is 128 ideas were submitted in 2018
+    # answer is 128 ideas were submitted in 2018 (84.2% of all ideas in the dataset)
 
     ##################
     # 3) Create a pie chart that shows the breakout of all ideas by department of person submitting the idea.
@@ -32,16 +32,15 @@ def execute():
     plt.title('Ideas by Submitter Department')
     plt.savefig('pie_chart.png')
 
-
     ##################
     # 4) Of the ideas that were implemented, which two departments benefited most?
     # Segment down to the implemented ideas first
     implemented_ideas = data[data['Idea Status'] == '5 Implemented']
     # Count and sort
-    count = implemented_ideas.groupby(['Primary Benefiting Department']).size().reset_index(name='count').sort_values(
-        by='count', ascending=False)
+    count = implemented_ideas.groupby(['Primary Benefiting Department']).size().reset_index(name='count').sort_values(by='count', ascending=False)
     print(count.head(2))
     # Answer is Production with 8 implemented ideas, and Human Resources with 7 Implemented Ideas.
+
 
 if __name__ == '__main__':
     execute()
