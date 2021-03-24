@@ -16,4 +16,16 @@ Answer: 128 ideas (or 84.2% of all ideas in the dataset) were submitted in 2018.
 Answer: Production with 8 implemented ideas, and Human Resources with 7 Implemented Ideas.
 
 ### 5) Powerpoint slide:
+Talking points
+- The Ratio% represents how many ideas benefited each department divided by the number submitted by
+the department.  Departments can submit ideas to other departments so this gives an idea of who is 
+benefiting the most vs who is coming up with the most ideas. 
+- The Production Department submitted the most ideas, but only 8 ideas were implemented.  
+this resulted in the lowest implemented/submitted ratio.  
+- HR submitted the 2nd least number of ideas, but the ratio shows they benefited more on a percent
+basis than any other department.  This indicates that other departments are submitting ideas that
+are implemented on the HR team.  This can be indicative that every team interacts with HR to handle
+newhires, benefits, payroll, etc... and could be taking an active step to improve processes within HR. 
+
+
 ![Image of ppt Slide](https://github.com/KevinJayData/first-republic/blob/main/slide1.png)
