@@ -16,4 +16,4 @@ Answer: 128 ideas (or 84.2% of all ideas in the dataset) were submitted in 2018.
 Answer: Production with 8 implemented ideas, and Human Resources with 7 Implemented Ideas.
 
 ### 5) Powerpoint slide:
-![Image of ppt Slide](https://github.com/KevinJayData/first-republic/blob/main/slide.png)
+![Image of ppt Slide](https://github.com/KevinJayData/first-republic/blob/main/slide1.png)
