@@ -1,5 +1,7 @@
 # First Republic Take Home
 
+Note: Look above at `app.py` for all the code used to answer questions.  
+
 ### 1) How many employees submitted ideas?
 Answer: 102 unique employees submitted ideas.  
 I used username as that is likely, but not guaranteed, to account for duplicate employee names. 
